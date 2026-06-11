@@ -19,7 +19,7 @@ Projeto de modelagem 3D de um foguete experimental desenvolvido no SolidWorks.
 
 ## Imagens
 
-![Rocket](images/Hobby rocket print.png)
+![Rocket](images/Hobbyrocketprint.png)
 
 ## Autor
 Gabriel Guedes
